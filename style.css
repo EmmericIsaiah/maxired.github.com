@@ -67,6 +67,10 @@ border: solid 0px lightgrey;
 
 }
 
+.container h1{
+	padding-left: 20px;
+	margin-left: 20px;
+}
 .left h1{
 	text-transform: initial;
 	color:#50a3d9 ;
