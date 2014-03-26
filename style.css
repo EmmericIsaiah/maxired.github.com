@@ -96,3 +96,4 @@ border: solid 0px lightgrey;
 .header h2{
 	color:black;
 }
+.pagebreak { page-break-before: always; }
